@@ -1,0 +1,81 @@
+year,country,crime_index,saftey_index
+2012,United States,64.93,35.07
+2012,Brazil,59.26,40.74
+2012,Israel,40.78,59.22
+2012,Canada,39.82,60.18
+2012,Lithuania,39.06,60.94
+2012,Spain,32.96,67.04
+2012,Hungary,30.47,69.53
+2012,Netherlands,28.40,71.60
+2012,Singapore,20.21,79.79
+2012,Japan,5.75,94.25
+2013,Brazil,62.62,37.38
+2013,United States,53.44,46.56
+2013,Israel,48.26,51.74
+2013,Netherlands,37.53,62.47
+2013,Canada,34.98,65.02
+2013,Lithuania,34.61,65.39
+2013,Spain,34.12,65.88
+2013,Hungary,33.72,66.28
+2013,Singapore,19.98,80.02
+2013,Japan,13.11,86.89
+2014,Brazil,67.00,33.00
+2014,United States,50.15,49.85
+2014,Hungary,37.52,62.48
+2014,Netherlands,37.07,62.93
+2014,Canada,36.29,63.71
+2014,Lithuania,34.71,65.29
+2014,Israel,33.28,66.72
+2014,Spain,32.42,67.58
+2014,Singapore,21.35,78.65
+2014,Japan,18.10,81.90
+2015,Brazil,68.95,31.05
+2015,United States,50.01,49.99
+2015,Hungary,41.76,58.24
+2015,Canada,37.46,62.54
+2015,Lithuania,36.69,63.31
+2015,Netherlands,35.41,64.59
+2015,Spain,33.85,66.15
+2015,Israel,30.40,69.60
+2015,Japan,20.24,79.76
+2015,Singapore,17.59,82.41
+2016,Brazil,71.23,28.77
+2016,United States,48.87,51.13
+2016,Lithuania,43.15,56.85
+2016,Hungary,41.93,58.07
+2016,Canada,39.20,60.80
+2016,Spain,31.77,68.23
+2016,Netherlands,31.47,68.53
+2016,Israel,30.63,69.37
+2016,Japan,19.34,80.66
+2016,Singapore,15.81,84.19
+2017,Brazil,70.62,29.38
+2017,United States,48.76,51.24
+2017,Lithuania,40.03,59.97
+2017,Canada,39.25,60.75
+2017,Hungary,38.39,61.61
+2017,Spain,31.28,68.72
+2017,Netherlands,29.89,70.11
+2017,Israel,29.01,70.99
+2017,Japan,20.89,79.11
+2017,Singapore,16.58,83.42
+2018,Brazil,70.55,29.45
+2018,United States,49.58,50.42
+2018,Canada,39.28,60.72
+2018,Lithuania,37.59,62.41
+2018,Israel,36.90,63.10
+2018,Spain,36.74,63.26
+2018,Hungary,36.51,63.49
+2018,Netherlands,28.94,71.06
+2018,Singapore,16.23,83.77
+2018,Japan,13.10,86.90
+2019,Brazil,70.24,29.76
+2019,United States,47.13,52.87
+2019,Canada,39.51,60.49
+2019,Lithuania,36.51,63.49
+2019,Hungary,35.17,64.83
+2019,Spain,32.46,67.54
+2019,Israel,32.16,67.84
+2019,Netherlands,28.57,71.43
+2019,Singapore,21.47,78.53
+2019,Japan,13.73,86.27
